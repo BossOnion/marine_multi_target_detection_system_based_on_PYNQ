@@ -1,0 +1,2 @@
+# marine_multi_target_detection_system_based_on_PYNQ
+基于PYNQ的海上多目标检测系统-2023研电赛
