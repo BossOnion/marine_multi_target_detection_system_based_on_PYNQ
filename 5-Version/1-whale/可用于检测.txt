@@ -1,0 +1,43 @@
+测试集准确数 6152
+测试集准确率 0.48
+
+训练集-前半 准确数 10733
+训练集-前半 准确率 0.56
+
+训练集-后半 准确数 10708
+训练集-后半 准确率 0.56
+
+训练集 准确数 21441
+训练集 准确率 56.02 
+
+测试集==>
+0 93d7d0699a1216.jpg melon_headed_whale
+1 54b9dba2604930.jpg humpback_whale
+2 2729fe7ad6245f.jpg false_killer_whale
+3 6c39c44f811efe.jpg bottlenose_dolphin
+4 d4135027a5647b.jpg beluga
+5 67338191a6d07d.jpg minke_whale
+6 d497600106cae2.jpg fin_whale
+7 d7f47c7a713f91.jpg blue_whale
+8 d831c5d3af3342.jpg gray_whale
+9 eafd6677c18db7.jpg southern_right_whale
+11 b69fb176f39fa0.jpg kiler_whale
+12 1707e63f92f03f.jpg pilot_whale
+13 cdfa1a63ed125a.jpg dusky_dolphin
+14 a0b9d49c67f664.jpg killer_whale
+15 6f6108b449daab.jpg long_finned_pilot_whale
+16 12df50e19a90ab.jpg sei_whale
+17 9b6e59ff6d2309.jpg spinner_dolphin
+18 35770005852302.jpg cuviers_beaked_whale
+19 975914ab797f11.jpg spotted_dolphin
+20 9443c5069ac1df.jpg globis
+22 c2a9fdd5401ebb.jpg commersons_dolphin
+23 19d93b543ff684.jpg white_sided_dolphin
+24 76592eacf0b914.jpg short_finned_pilot_whale
+27 b40969974439be.jpg pygmy_killer_whale
+训练集==>
+10 0938bb32569bed.jpg melon_headed_whale
+21 7a7d0e488c79c6.jpg humpback_whale
+25 11bbf6dc02655d.jpg false_killer_whale
+26 703317a1fca5c7.jpg bottlenose_dolphin
+28 c37aef077d41d1.jpg beluga
