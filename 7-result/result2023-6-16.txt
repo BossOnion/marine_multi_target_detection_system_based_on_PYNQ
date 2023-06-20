@@ -1,0 +1,31 @@
+工作频率100MHz
+
+【num】
+conv1_time: 0.01 s
+pool1_time: 0.0013 s
+conv2_time: 0.032 s
+pool2_time: 0.0012 s
+fc1  _time: 0.0196 s
+fc2  _time: 0.0016 s
+all  _time: 0.0657 s
+
+【ship】
+测试集 486/1249=38.91%
+训练集 2516/5003=50.29%
+conv1_time: 0.0313 s
+pool1_time: 0.0019 s
+conv2_time: 0.2195 s
+pool2_time: 0.0015 s
+fc1  _time: 0.0523 s
+fc2  _time: 0.0015 s
+all  _time: 0.308 s
+
+【whale】
+
+conv1_time: 0.322 s
+pool1_time: 0.0044 s
+conv2_time: 2.431 s
+pool2_time: 0.0028 s
+fc1  _time: 0.2051 s
+fc2  _time: 0.0021 s
+all  _time: 2.9675 s
